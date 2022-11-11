@@ -54,3 +54,9 @@ Command + Shift + 5のオプションより変更可能
 
 ## LICEcap
 画面上の動作をGifで見せたいときに便利
+
+## ファインダーでの隠しファイルの表示
+```
+defaults write com.apple.finder AppleShowAllFiles -bool true
+killall Finder
+```
