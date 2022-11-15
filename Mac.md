@@ -47,7 +47,9 @@ Command + Shift + 5のオプションより変更可能
 # 開発系アプリケーション
 
 ## Visual Studio Code
-
+```
+brew install visual-studio-code --cask
+```
 ## Xcode
 
 ## homebrew
