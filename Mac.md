@@ -39,6 +39,8 @@ Command + Shift + 5のオプションより変更可能
 
 ## Google 日本語入力
 
+## App Cleaner
+
 ## Clipy
 コピペ拡張アプリ
 
