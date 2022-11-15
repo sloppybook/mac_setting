@@ -50,6 +50,18 @@ Command + Shift + 5のオプションより変更可能
 
 ## homebrew
 
+## git
+```
+brew install git
+
+vi ~/.zshrc
+# 以下追加
+export PATH="/usr/local/git/bin:$PATH"
+# 反映
+source .zshrc
+```
+https://acokikoy.hatenablog.com/entry/2021/03/10/133558
+
 ## iTerm2
 
 ## LICEcap
