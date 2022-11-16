@@ -44,6 +44,9 @@ Command + Shift + 5のオプションより変更可能
 ## Clipy
 コピペ拡張アプリ
 
+## Karabiner
+だいたいキーボードかマウスの割当いじりたくなる
+
 # 開発系アプリケーション
 
 ## Visual Studio Code
