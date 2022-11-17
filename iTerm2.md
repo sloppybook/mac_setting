@@ -21,3 +21,8 @@ iTerm2 > Preferences > Terminal > Scrollback Buffer
 ## Color
 色変えれたり
 <img width="919" alt="スクリーンショット 2022-11-11 17 51 49" src="https://user-images.githubusercontent.com/33928882/201303864-57163e18-7a90-41c6-b939-8e4b4204186c.png">
+
+
+## Default Working Space
+新しいタブ・ウィンドウを開いたときに指定のディレクトリから始められる便利
+<img width="911" alt="スクリーンショット 2022-11-17 10 53 38" src="https://user-images.githubusercontent.com/33928882/202334949-6cf11f62-1a20-4b28-9da9-402659ef24d2.png">
