@@ -5,6 +5,8 @@ iTerm2 > Preferences > Keys > Hotkey
 ![スクリーンショット 2022-11-22 13 22 57](https://user-images.githubusercontent.com/33928882/203220983-73233fd8-9262-45bd-b7a0-bf16d961ce35.png)
 ![スクリーンショット 2022-11-22 13 23 09](https://user-images.githubusercontent.com/33928882/203220976-4f1826c9-0239-4988-abae-15ae016dc5c0.png)
 
+![スクリーンショット 2022-11-22 14 01 16](https://user-images.githubusercontent.com/33928882/203225926-99c4c4bb-be87-4775-84e8-ce6c4fef2d85.png)
+
 ## Scrollback Buffer
 デフォルトの1000だと少なすぎるので
 設定している値は適当です
