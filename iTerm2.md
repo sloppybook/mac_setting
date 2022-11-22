@@ -1,7 +1,9 @@
 ## Hotkeyの設定
 ショートカットでiTerm2を召喚できます
 iTerm2 > Preferences > Keys > Hotkey
-<img width="780" alt="スクリーンショット 2022-11-11 15 53 30" src="https://user-images.githubusercontent.com/33928882/201281065-99f551f5-4449-485b-9b74-d7af262532aa.png">
+
+![スクリーンショット 2022-11-22 13 22 57](https://user-images.githubusercontent.com/33928882/203220983-73233fd8-9262-45bd-b7a0-bf16d961ce35.png)
+![スクリーンショット 2022-11-22 13 23 09](https://user-images.githubusercontent.com/33928882/203220976-4f1826c9-0239-4988-abae-15ae016dc5c0.png)
 
 ## Scrollback Buffer
 デフォルトの1000だと少なすぎるので
