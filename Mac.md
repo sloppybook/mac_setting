@@ -36,6 +36,10 @@ Command + Shift + 5のオプションより変更可能
 プライベートではSidekickとかBraveとかも使ってみたり
 
 ## Slack
+# github app
+githubと連携、github上でのメンションがslack上でも来るようになる
+# Google Calender
+Slack上でGoogle　Calender
 
 ## Google 日本語入力
 
