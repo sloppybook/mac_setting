@@ -33,5 +33,5 @@ iTerm2 > Preferences > Terminal > Scrollback Buffer
 
 
 ## Semantic History
-
+file pathなどをCommand Clickで設定したEditorに飛んでくれる（デフォルトだとXcodeが開くので不便）
 ![スクリーンショット 2022-11-28 16 01 15](https://user-images.githubusercontent.com/33928882/204552828-4087dca1-859c-4421-af6d-b87b8f484094.png)
