@@ -30,3 +30,8 @@ iTerm2 > Preferences > Terminal > Scrollback Buffer
 ## Default Working Space
 新しいタブ・ウィンドウを開いたときに指定のディレクトリから始められる便利
 <img width="911" alt="スクリーンショット 2022-11-17 10 53 38" src="https://user-images.githubusercontent.com/33928882/202334949-6cf11f62-1a20-4b28-9da9-402659ef24d2.png">
+
+
+## Semantic History
+
+![スクリーンショット 2022-11-28 16 01 15](https://user-images.githubusercontent.com/33928882/204552828-4087dca1-859c-4421-af6d-b87b8f484094.png)
